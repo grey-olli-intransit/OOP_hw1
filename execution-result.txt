@@ -1,0 +1,10 @@
+Power:
+2.0^3.0: 8.000000
+RGBA:
+red: 0, green: 0, blue: 0, alpha: 255
+red: 1, green: 25, blue: 3, alpha: 255
+Stack:
+()
+( 3 7 5 )
+( 3 7 )
+()
